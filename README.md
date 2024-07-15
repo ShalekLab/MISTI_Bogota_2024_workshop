@@ -1,1 +1,9 @@
-# MISTI_Bogota_2024_workshop
+
+
+## Workshop overview
+
+[Workshop website](https://ciencias.uniandes.edu.co/56-eventos/635-single-cell-workshop-colombia-2024)
+
+******
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
